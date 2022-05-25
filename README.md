@@ -1,5 +1,5 @@
-👋 Hi, I’m @goktayincekara
-👩‍🎓 I am a senior in Izmir Institute of Technology, Computer Engineering.
+👋 Hi, I’m @goktayincekara\n
+🎓 I am a senior in Izmir Institute of Technology, Computer Engineering.
 🌱 I’m currently learning Node.js and React.
 📫 Linkedin www.linkedin.com/in/göktay-incekara
 📫 goktayincekara@gmail.com
