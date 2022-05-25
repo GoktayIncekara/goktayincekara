@@ -1,4 +1,4 @@
-👋 Hi, I’m @goktayincekara  
+👋 Hi, I’m @GoktayIncekara  
 
 🎓 I am a senior in Izmir Institute of Technology, Computer Engineering.  
 
