@@ -1,8 +1,6 @@
 👋 Hi, I’m @GoktayIncekara  
 
-🎓 I am a senior in Izmir Institute of Technology, Computer Engineering.  
-
-🌱 I’m currently learning Node.js and React.  
+🎓 I am a junior developer who graduated from Izmir Institute of Technology, Computer Engineering.  
 
 📫 Linkedin www.linkedin.com/in/göktay-incekara  
 
